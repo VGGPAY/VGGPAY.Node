@@ -13,8 +13,12 @@ For a specific example, please refer to the "src/index.js" file in the root dire
 Using npm
 
 ```bash
+npm install vggpay.node
 
-npm install VGGPAY.Node
+## 使用 require()（CommonJS 语法）
+const VggPay = require('vggpay.node');
+## 
+import VggPay from 'vggpay.node';
 
 
 
