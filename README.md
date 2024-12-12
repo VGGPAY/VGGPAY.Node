@@ -10,9 +10,11 @@ For a specific example, please refer to the "src/index.js" file in the root dire
 
 
 ## Installation
-You can install the VggPay Node SDK via Composer:
+Using npm
 
 ```bash
-composer require vggpay/vggpay.php
+
+npm install VGGPAY.Node
+
 
 
