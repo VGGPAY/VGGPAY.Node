@@ -15,7 +15,7 @@ Using npm
 ```bash
 npm install vggpay.node
 
-## 使用 require()（CommonJS 语法）
+## use require()（CommonJS ）
 const VggPay = require('vggpay.node');
 ## 
 import VggPay from 'vggpay.node';
