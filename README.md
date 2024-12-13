@@ -21,4 +21,9 @@ const VggPay = require('vggpay.node');
 import VggPay from 'vggpay.node';
 
 
+```
+
+# Error code Description
+https://www.vggpay.com/business-code
+
 
